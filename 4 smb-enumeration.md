@@ -1,9 +1,9 @@
-# SMB Enumeration Lab
+ SMB Enumeration Lab
 
-## Objective
+Objective
 Investigate SMB service on target machine.
 
-## Target
+Target
 192.168.56.101
 
 Tools Used
