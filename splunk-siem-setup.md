@@ -69,3 +69,6 @@ Drag and drop all the screenshots you took tonight — the 1,853 events screen, 
 In the commit message type:
 ```
 Add Splunk lab screenshots
+[Live Log Ingestion](../screenshots/splunk-events.png)
+![Failed Login Detection](../screenshots/splunk-4625.png)
+![Brute Force Query](../screenshots/splunk-bruteforce.png)
