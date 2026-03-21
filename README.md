@@ -127,7 +127,7 @@ index=* source="WinEventLog:Security" EventCode=4625
 - [ ] Atomic Red Team attack simulation
 - [ ] SOC investigation case study
 - [ ] Attack to Detection mapping with MITRE ATT&CK
-- [ ] Burp Suite web application testing
+- [x] Burp Suite web application testing
 - [ ] Autopsy digital forensics investigation
 - [ ] Volatility memory forensics
 - [ ] Full DFIR investigation report
