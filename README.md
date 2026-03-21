@@ -126,7 +126,7 @@ index=* source="WinEventLog:Security" EventCode=4625
 - [ ] Windows Event Log deep dive (EventCodes 4624, 4625, 4720, 4732, 7045)
 - [ ] Atomic Red Team attack simulation
 - [ ] SOC investigation case study
-- [ ] Attack to Detection mapping with MITRE ATT&CK
+- [x] Attack to Detection mapping with MITRE ATT&CK
 - [x] Burp Suite web application testing
 - [ ] Autopsy digital forensics investigation
 - [ ] Volatility memory forensics
