@@ -129,7 +129,7 @@ index=* source="WinEventLog:Security" EventCode=4625
 - [x] Attack to Detection mapping with MITRE ATT&CK
 - [x] Burp Suite web application testing
 - [x] Autopsy digital forensics investigation
-- [ ] Volatility memory forensics
+- [x] Volatility memory forensics
 - [ ] Full DFIR investigation report
 
 ---
