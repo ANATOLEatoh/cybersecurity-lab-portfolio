@@ -128,7 +128,7 @@ index=* source="WinEventLog:Security" EventCode=4625
 - [ ] SOC investigation case study
 - [x] Attack to Detection mapping with MITRE ATT&CK
 - [x] Burp Suite web application testing
-- [ ] Autopsy digital forensics investigation
+- [x] Autopsy digital forensics investigation
 - [ ] Volatility memory forensics
 - [ ] Full DFIR investigation report
 
