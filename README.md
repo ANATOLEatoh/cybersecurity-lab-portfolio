@@ -123,14 +123,14 @@ index=* source="WinEventLog:Security" EventCode=4625
 - [x] Splunk SIEM deployed and receiving live logs
 - [x] Brute force detection query built and tested
 - [ ] Ubuntu Server VM fully configured
-- [ ] Windows Event Log deep dive (EventCodes 4624, 4625, 4720, 4732, 7045)
+- [x] Windows Event Log deep dive (EventCodes 4624, 4625, 4720, 4732, 7045)
 - [ ] Atomic Red Team attack simulation
-- [ ] SOC investigation case study
+- [x] SOC investigation case study
 - [x] Attack to Detection mapping with MITRE ATT&CK
 - [x] Burp Suite web application testing
 - [x] Autopsy digital forensics investigation
 - [x] Volatility memory forensics
-- [ ] Full DFIR investigation report
+- [x] Full DFIR investigation report
 
 ---
 
